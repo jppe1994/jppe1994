@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 <h1 align="center">Hi 👋, I'm PEDRO A. MENDOZA ALCIVAR</h1>
 <h3 align="center">Un apasionado de la informática y tecnología sumergido en el desarrollo de aplicaciones.</h3>
 
@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jppe1994&" alt="jppe1994" /></p>
 
--->
+
